@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReversingLinkedList",
+            "request": "launch",
+            "mainClass": "ReversingLinkedList",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DestructiveOrNonDestructive",
+            "request": "launch",
+            "mainClass": "DestructiveOrNonDestructive",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Account",
+            "request": "launch",
+            "mainClass": "Account",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shove",
+            "request": "launch",
+            "mainClass": "Shove",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Discussion2",
             "request": "launch",
             "mainClass": "Discussion2",

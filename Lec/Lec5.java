@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import static java.lang.System.arraycopy;
-import static java.lang.Math.*;
 
 /**
  * CS61B Lecture #5: Arrays
