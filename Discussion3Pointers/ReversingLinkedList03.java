@@ -1,4 +1,3 @@
-
 /**
  * Implement the following method, which reverses an IntList nondestructively.
  * The original IntList should not be modified. Instead, the method should

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReversingLinkedList03",
+            "request": "launch",
+            "mainClass": "ReversingLinkedList03",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ReversingLinkedList",
             "request": "launch",
             "mainClass": "ReversingLinkedList",
