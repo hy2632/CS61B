@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LC121",
+            "request": "launch",
+            "mainClass": "LC121",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hanoitower",
+            "request": "launch",
+            "mainClass": "hanoitower",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RengBeiZi",
+            "request": "launch",
+            "mainClass": "RengBeiZi",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - kuaipai",
+            "request": "launch",
+            "mainClass": "kuaipai",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - guibing",
+            "request": "launch",
+            "mainClass": "guibing",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuanPaiLie",
+            "request": "launch",
+            "mainClass": "QuanPaiLie",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DP",
+            "request": "launch",
+            "mainClass": "DP",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArraySum",
+            "request": "launch",
+            "mainClass": "ArraySum",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort0827",
+            "request": "launch",
+            "mainClass": "MergeSort0827",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RadixSort",
             "request": "launch",
             "mainClass": "RadixSort",
