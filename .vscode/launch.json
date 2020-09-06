@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HistogramClient",
+            "request": "launch",
+            "mainClass": "HistogramClient",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapInJava",
+            "request": "launch",
+            "mainClass": "MapInJava",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntList",
+            "request": "launch",
+            "mainClass": "IntList",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LC121",
             "request": "launch",
             "mainClass": "LC121",
