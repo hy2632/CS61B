@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - comparable",
+            "request": "launch",
+            "mainClass": "comparable",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - addInList0907",
+            "request": "launch",
+            "mainClass": "addInList0907",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - deletenode",
+            "request": "launch",
+            "mainClass": "deletenode",
+            "projectName": "CS61b_a54b8f04"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HistogramClient",
             "request": "launch",
             "mainClass": "HistogramClient",
